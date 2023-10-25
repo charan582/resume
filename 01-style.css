@@ -1,0 +1,25 @@
+.name{
+    margin: 50px;
+    
+}
+.hi{
+    background-color: rgb(144, 150, 150);
+}
+.im{
+   
+}
+*{
+    background-color: whitesmoke;
+}
+h1{
+    font-style: italic;
+}
+#table{
+    border: 20px;
+    border-style: solid;
+    border-collapse: collapse;
+}
+*{
+    
+    
+}
